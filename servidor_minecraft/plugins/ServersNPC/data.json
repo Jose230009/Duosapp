@@ -79,6 +79,12 @@
         "clickType": "DEFAULT",
         "action": "mv tp world",
         "delay": 0
+      },
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "mv tp world",
+        "delay": 0
       }
     ],
     "npcEquip": {},

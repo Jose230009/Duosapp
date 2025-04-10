@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744309133181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744310201455
+  login: 1744310084963
+money: '0'
+last-account-name: -iDrekzet
+lastlocation:
+  world: 596b4201-5fcc-4563-b1fc-c3d8ca9ddb60
+  world-name: aaa
+  x: -108.18018
+  y: 67.67646
+  z: 576.35864
+  yaw: 118.55667114257812
+  pitch: 14.488189697265625
+logoutlocation:
+  world: 86178c68-576a-4464-85d7-784c86d3ca6a
+  world-name: world
+  x: -238.61955
+  y: 67.0
+  z: -98.12685
+  yaw: -178.19581604003906
+  pitch: 35.662689208984375

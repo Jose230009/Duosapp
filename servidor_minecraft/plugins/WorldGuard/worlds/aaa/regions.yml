@@ -30,7 +30,7 @@ regions:
         min: {x: -99, y: 106, z: 372}
         max: {x: 60, y: 127, z: 426}
         members: {}
-        flags: {block-break: deny, pvp: allow, mob-spawning: deny, block-place: deny}
+        flags: {block-break: allow, pvp: allow, mob-spawning: deny, block-place: deny}
         owners: {}
         type: cuboid
         priority: 0
