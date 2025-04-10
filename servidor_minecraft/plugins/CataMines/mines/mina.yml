@@ -3,38 +3,26 @@ Mine:
   name: mina
   region:
     type: CUBOID
-    world: flatroom
+    world: aaa
     p1:
       ==: org.bukkit.Location
-      world: flatroom
-      x: -193.0
-      y: -59.0
-      z: -13.0
+      world: aaa
+      x: -123.0
+      y: 107.0
+      z: 379.0
       pitch: 0.0
       yaw: 0.0
     p2:
       ==: org.bukkit.Location
-      world: flatroom
-      x: -176.0
-      y: -56.0
-      z: 2.0
+      world: aaa
+      x: -106.0
+      y: 110.0
+      z: 394.0
       pitch: 0.0
       yaw: 0.0
   composition:
-  - block: minecraft:diamond_ore
-    chance: 10.0
-    addLootTable: false
-    lootTable: []
-  - block: minecraft:stone
-    chance: 30.0
-    addLootTable: false
-    lootTable: []
-  - block: minecraft:emerald_ore
-    chance: 10.0
-    addLootTable: false
-    lootTable: []
-  - block: minecraft:copper_ore
-    chance: 10.0
+  - block: minecraft:iron_ore
+    chance: 14.0
     addLootTable: false
     lootTable: []
   - block: minecraft:gold_ore
@@ -49,14 +37,30 @@ Mine:
     chance: 10.0
     addLootTable: false
     lootTable: []
-  - block: minecraft:redstone_ore
+  - block: minecraft:copper_ore
     chance: 10.0
+    addLootTable: false
+    lootTable: []
+  - block: minecraft:diamond_ore
+    chance: 5.0
+    addLootTable: false
+    lootTable: []
+  - block: minecraft:nether_quartz_ore
+    chance: 10.0
+    addLootTable: false
+    lootTable: []
+  - block: minecraft:ancient_debris
+    chance: 1.0
+    addLootTable: false
+    lootTable: []
+  - block: minecraft:stone
+    chance: 30.0
     addLootTable: false
     lootTable: []
   resetMode: TIME
   resetDelay: 40
   countdown: 0
-  resetPercentage: 0.0
+  resetPercentage: 60.0
   replaceMode: false
   teleportPlayers: false
   teleportPlayersToResetLocation: false

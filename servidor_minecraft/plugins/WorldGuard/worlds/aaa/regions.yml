@@ -10,11 +10,43 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    mina_:
+        min: {x: -123, y: 107, z: 379}
+        max: {x: -106, y: 110, z: 394}
+        members: {}
+        flags: {block-break: allow, pvp: deny, mob-spawning: deny, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
     spawn:
         min: {x: -163, y: 8, z: 514}
         max: {x: 0, y: 214, z: 661}
         members: {}
         flags: {invincible: allow, pvp: deny, mob-spawning: deny, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    minapvp:
+        min: {x: -99, y: 106, z: 372}
+        max: {x: 60, y: 127, z: 426}
+        members: {}
+        flags: {block-break: deny, pvp: allow, mob-spawning: deny, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    mina:
+        min: {x: -130, y: 106, z: 372}
+        max: {x: -99, y: 122, z: 401}
+        members: {}
+        flags: {invincible: allow, pvp: deny, block-place: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    mina_pvp:
+        min: {x: 15, y: 111, z: 385}
+        max: {x: 54, y: 115, z: 420}
+        members: {}
+        flags: {block-break: allow, pvp: allow}
         owners: {}
         type: cuboid
         priority: 0
