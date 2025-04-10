@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1744311785205
+  lastteleport: 1744314620126
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1744312543491
-  login: 1744312354137
+  logout: 1744315170779
+  login: 1744314255478
 money: '0'
 last-account-name: -Capybara_mc7664
 lastlocation:
   world: 596b4201-5fcc-4563-b1fc-c3d8ca9ddb60
   world-name: aaa
-  x: 26.320242
-  y: 118.14919
-  z: 403.78766
-  yaw: -13.95025634765625
-  pitch: 25.392913818359375
+  x: -77.531494
+  y: 68.0
+  z: 564.7408
+  yaw: -178.87811279296875
+  pitch: 15.231903076171875
 logoutlocation:
-  world: 86178c68-576a-4464-85d7-784c86d3ca6a
-  world-name: world
-  x: 43.838142
-  y: 65.0
-  z: 48.545338
-  yaw: 52.70576477050781
-  pitch: 37.76393127441406
+  world: 596b4201-5fcc-4563-b1fc-c3d8ca9ddb60
+  world-name: aaa
+  x: -32.30001
+  y: 77.37489
+  z: 201.31432
+  yaw: -58.41694641113281
+  pitch: 41.51483154296875
 homes:
   home:
     world: 86aafe61-5f7b-4a70-b719-a2fa017f07ec

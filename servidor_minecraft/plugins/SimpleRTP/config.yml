@@ -23,9 +23,9 @@ Cooldown-Time:
 # Should the teleport cancel if the player moves.
 # Seconds the player must stand still after the command.
 Cancel-On-Move:
-  Enabled: false
-  Seconds: 3
-  Message: '&8[&fRTP&8] &cCancelled teleport. You must stay still to teleport!'
+  Enabled: true
+  Seconds: 5
+  Message: '&8[&&8] &cTeleportacion Cancelada. No te muevas!'
 
 # RTP will not be available in blacklisted worlds.
 Teleportation:
@@ -34,8 +34,9 @@ Teleportation:
       enabled: true
       blocked-worlds:
       - "world_the_end"
+      - "aaa"
 
-Invalid-World: '&cYou can not use RTP in this world.'
+Invalid-World: '&cBe al survival para el rtp.'
 
 # The maximum and minimum range coordinates the player will teleport from their original place.
 # If the world is not listed it will use -world
@@ -54,7 +55,7 @@ OffsetYLevel: 65.0
 
 # Players will not take damage for 1 second while teleporting
 Invincible:
-  Enabled: false
+  Enabled: true
 
 # Particle List: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html
 Particles:

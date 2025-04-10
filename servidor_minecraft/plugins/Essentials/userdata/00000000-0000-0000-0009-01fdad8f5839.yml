@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1744312543480
-  login: 1744311240982
+  logout: 1744316201881
+  login: 1744316260382
 money: '0'
 last-account-name: -Angel777780
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 86178c68-576a-4464-85d7-784c86d3ca6a
   world-name: world
-  x: 44.27723
-  y: 65.0
-  z: 48.581547
-  yaw: 95.89004516601562
-  pitch: 32.555694580078125
+  x: 481.69999
+  y: 104.0
+  z: 373.69999
+  yaw: 84.66363525390625
+  pitch: 44.464324951171875

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744313164879
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744313215179
+  login: 1744312960320
+money: '0'
+last-account-name: StivenSF
+lastlocation:
+  world: 596b4201-5fcc-4563-b1fc-c3d8ca9ddb60
+  world-name: aaa
+  x: -79.49067
+  y: 67.0
+  z: 566.3885
+  yaw: -130.22262573242188
+  pitch: -7.1292572021484375
+logoutlocation:
+  world: 596b4201-5fcc-4563-b1fc-c3d8ca9ddb60
+  world-name: aaa
+  x: 21.331163
+  y: 116.0
+  z: 417.211
+  yaw: 139.04681396484375
+  pitch: -2.45220947265625

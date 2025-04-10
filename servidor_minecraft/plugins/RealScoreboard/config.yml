@@ -24,7 +24,7 @@ Config:
   mcMMO-Support: false
   Check-for-Updates: true
   Use-Placeholders-In-Scoreboard-Titles: false
-  RealScoreboard-Disabled-By-Default: true
+  RealScoreboard-Disabled-By-Default: false
   Auto-Hide-In-Vanish: true
   World-Scoreboard-Switch: true
   Animations:
