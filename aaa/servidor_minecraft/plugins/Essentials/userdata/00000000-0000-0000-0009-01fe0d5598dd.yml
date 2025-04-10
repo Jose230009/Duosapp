@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1744216143440
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1744216918252
+  login: 1744214463811
+money: '0'
+last-account-name: -Mrbost6293
+logoutlocation:
+  world: 596b4201-5fcc-4563-b1fc-c3d8ca9ddb60
+  world-name: aaa
+  x: -70.045456
+  y: 114.0
+  z: 283.7345
+  yaw: -40.57954406738281
+  pitch: -89.9000015258789
+lastlocation:
+  world: 86aafe61-5f7b-4a70-b719-a2fa017f07ec
+  world-name: flatroom
+  x: -44.30001
+  y: -56.08468
+  z: 53.530205
+  yaw: 178.503173828125
+  pitch: 16.0655517578125
