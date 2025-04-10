@@ -3,21 +3,21 @@ Mine:
   name: mina_crital
   region:
     type: CUBOID
-    world: aaa
+    world: flatroom
     p1:
       ==: org.bukkit.Location
       world: flatroom
-      x: -29.0
+      x: -70.0
       y: 109.0
-      z: 316.0
+      z: 283.0
       pitch: 0.0
       yaw: 0.0
     p2:
       ==: org.bukkit.Location
       world: flatroom
-      x: -70.0
+      x: -29.0
       y: 113.0
-      z: 283.0
+      z: 316.0
       pitch: 0.0
       yaw: 0.0
   composition:
@@ -55,7 +55,7 @@ Mine:
     lootTable: []
   resetMode: TIME
   resetDelay: 40
-  countdown: 13
+  countdown: 25
   resetPercentage: 0.0
   replaceMode: false
   teleportPlayers: false
